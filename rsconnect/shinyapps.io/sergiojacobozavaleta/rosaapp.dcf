@@ -1,0 +1,13 @@
+name: rosaapp
+title:
+username:
+account: sergiojacobozavaleta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8700595
+bundleId: 7091806
+url: https://sergiojacobozavaleta.shinyapps.io/rosaapp/
+when: 1681519279.63805
+lastSyncTime: 1681519279.63806
+asMultiple: FALSE
+asStatic: FALSE
